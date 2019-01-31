@@ -5,7 +5,9 @@
     <classes>
       <class name="CollectionsFrameworkPractice.Pomtest">
         <methods>
-          <include name="f"/>
+          <include name="tearDown"/>
+          <include name="initDriver"/>
+          <include name="datePicker"/>
         </methods>
       </class> <!-- CollectionsFrameworkPractice.Pomtest -->
     </classes>

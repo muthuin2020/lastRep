@@ -1,9 +1,5 @@
 package CollectionsFrameworkPractice;
 
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Set;
-
 import org.testng.annotations.Test;
 
 public class RemoveDuplivcates_In_LinkedList {

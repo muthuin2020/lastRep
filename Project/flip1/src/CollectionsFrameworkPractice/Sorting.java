@@ -1,6 +1,5 @@
 package CollectionsFrameworkPractice;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
@@ -31,7 +30,9 @@ public class Sorting {
 		for(String a1:ar1)
 		System.out.println(a1);
 		
-		Scanner sc=new Scanner(System.in);		
+		System.out.println("Enter an INteger");
+		Scanner sc=new Scanner(System.in);	
+		
 		String a2=sc.nextLine();
 		System.out.println(a2);
 		
