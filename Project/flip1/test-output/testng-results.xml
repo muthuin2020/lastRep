@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-02-01T17:13:53Z" name="Default suite" finished-at="2019-02-01T17:13:53Z" duration-ms="76">
+  <suite name="Default suite" duration-ms="51" started-at="2019-03-12T17:58:20Z" finished-at="2019-03-12T17:58:20Z">
     <groups>
     </groups>
-    <test started-at="2019-02-01T17:13:53Z" name="Default test" finished-at="2019-02-01T17:13:53Z" duration-ms="76">
-      <class name="CollectionsFrameworkPractice.NewTest">
-        <test-method signature="f()[pri:0, instance:CollectionsFrameworkPractice.NewTest@6c40365c]" started-at="2019-02-01T17:13:53Z" name="f" finished-at="2019-02-01T17:13:53Z" duration-ms="36" status="PASS">
+    <test name="Default test" duration-ms="51" started-at="2019-03-12T17:58:20Z" finished-at="2019-03-12T17:58:20Z">
+      <class name="main.SysGetProprty">
+        <test-method status="PASS" signature="sysGetProp()[pri:0, instance:main.SysGetProprty@5b275dab]" name="sysGetProp" duration-ms="16" started-at="2019-03-12T17:58:20Z" finished-at="2019-03-12T17:58:20Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- CollectionsFrameworkPractice.NewTest -->
+        </test-method> <!-- sysGetProp -->
+      </class> <!-- main.SysGetProprty -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
